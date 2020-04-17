@@ -1,3 +1,4 @@
+#Using Python 3.8.2
 # Create a function that takes a List, converts to a String and inserts a "," between each word in the sting.
 # Also, the last word in the string is followed by "and"
 
