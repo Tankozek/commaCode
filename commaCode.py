@@ -12,7 +12,7 @@ def commaCode(someList):
         #for loop takes each element in someList, adds to someString + a ","
         someString += i + ","
         
-       #someString is returned and alls on the .rstrip()method to strip the trailing ","
+       #someString is returned and calls on the .rstrip()method to strip the trailing ","
     return someString.rstrip(",")
 
 
